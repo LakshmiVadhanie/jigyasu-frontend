@@ -51,7 +51,7 @@ The biggest challenge was to manage authentication and build a diverse platform 
 
 ## 🏅 Accomplishments that we're proud of
 
-Completing the project under the given time frame
+Completing the project under the given time frame for Hackathon.
 
 ## 🚀 What's next for JigYasu
 - We are going to use guphsup chatbot on the website to have a virtual chat with the user so that they can get suggestion about the event they want to participate ,on the basis of their interest and so to easily navigate through the site.
